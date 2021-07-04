@@ -737,7 +737,6 @@ p {
 
 @media (orientation: landscape) and (min-width: 768px) and (max-width: 1024px) {
   .navbar-content {
-    display: none;
     margin-top: 1rem;
   }
   .navbar-content h2 {
